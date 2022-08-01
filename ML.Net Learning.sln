@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentimentAnalysis", "SentimentAnalysis\SentimentAnalysis.csproj", "{C98DCF1E-4612-4896-9196-C54187805CAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxiFarePrediction", "TaxiFarePrediction\TaxiFarePrediction.csproj", "{CAF510C8-86C4-4BF2-A755-AFB40AFE8176}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GitHubIssueClassification", "GitHubIssueClassification\GitHubIssueClassification.csproj", "{E05E77BF-2076-49A4-8A59-C8E0E2D870DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IrisFlowerClustering", "IrisFlowerClustering\IrisFlowerClustering.csproj", "{7090C8AC-F82D-4560-9131-3592063BB9C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C98DCF1E-4612-4896-9196-C54187805CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C98DCF1E-4612-4896-9196-C54187805CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C98DCF1E-4612-4896-9196-C54187805CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C98DCF1E-4612-4896-9196-C54187805CAE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E05E77BF-2076-49A4-8A59-C8E0E2D870DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E05E77BF-2076-49A4-8A59-C8E0E2D870DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E05E77BF-2076-49A4-8A59-C8E0E2D870DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E05E77BF-2076-49A4-8A59-C8E0E2D870DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAF510C8-86C4-4BF2-A755-AFB40AFE8176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF510C8-86C4-4BF2-A755-AFB40AFE8176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF510C8-86C4-4BF2-A755-AFB40AFE8176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF510C8-86C4-4BF2-A755-AFB40AFE8176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7090C8AC-F82D-4560-9131-3592063BB9C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7090C8AC-F82D-4560-9131-3592063BB9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7090C8AC-F82D-4560-9131-3592063BB9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7090C8AC-F82D-4560-9131-3592063BB9C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

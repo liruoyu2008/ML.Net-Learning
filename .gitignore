@@ -1,0 +1,9 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs
+/IrisFlowerClustering/bin/Debug/net6.0
+/IrisFlowerClustering/obj
+/TaxiFarePrediction/bin/Debug/net6.0
+/TaxiFarePrediction/obj
