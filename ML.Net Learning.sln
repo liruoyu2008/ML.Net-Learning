@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BikeDemandForecasting", "Bi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneCallsAnomalyDetection", "PhoneCallsAnomalyDetection\PhoneCallsAnomalyDetection.csproj", "{D56DDC6E-44A3-444D-8CCE-B47BF76490FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductSalesAnomalyDetection", "ProductSalesAnomalyDetection\ProductSalesAnomalyDetection.csproj", "{01A6A2B1-F237-42DD-85FD-A63FB4FB2820}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D56DDC6E-44A3-444D-8CCE-B47BF76490FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D56DDC6E-44A3-444D-8CCE-B47BF76490FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D56DDC6E-44A3-444D-8CCE-B47BF76490FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01A6A2B1-F237-42DD-85FD-A63FB4FB2820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A6A2B1-F237-42DD-85FD-A63FB4FB2820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A6A2B1-F237-42DD-85FD-A63FB4FB2820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A6A2B1-F237-42DD-85FD-A63FB4FB2820}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
